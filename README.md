@@ -1,4 +1,3 @@
-# Hello, I'm Muzammil Iqbal
 <a href="https://www.linkedin.com/in/mmuzammiliqbal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 IT professional with 10+ years of experience in technical support, batch automation, and system operations, transitioning into cybersecurity. Passionate about threat detection, incident response, and strengthening organizational security through proactive monitoring and problem-solving.
