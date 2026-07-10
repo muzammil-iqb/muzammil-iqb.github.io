@@ -19,6 +19,11 @@ Seeking a SOC Analyst or Security Analyst opportunity where I can apply my IT op
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+## Resume
+<a href="muzammiliqbal.github.io/resume/Muzammil_Iqbal_Resume.pdf
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logobatreader&logoColor=white
+</a>
+
 ## Projects
 
 ## Lab Walkthroughs
