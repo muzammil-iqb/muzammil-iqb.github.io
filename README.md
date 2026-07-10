@@ -23,5 +23,15 @@ Seeking a SOC Analyst or Security Analyst opportunity where I can apply my IT op
 <a href="https://muzammil-iqb.github.io/resume/Muzammil_Iqbal_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logobatreader&logoColor=white" /></a>
 
 ## Projects
+### Phishing Hazard Assessment Tool | Capstone Project
+An AI-powered phishing detection application designed to analyze URLs, emails, and attachments using machine learning, heuristic analysis, and threat intelligence sources.
+
+**Key Contributions:**
+- Served as Product Owner and Designer, defining project requirements, detection workflows, and user experience.
+- Designed phishing detection logic to identify brand impersonation, suspicious domains, credential harvesting attempts, and phishing-related language.
+- Implemented a risk-scoring framework to classify threats as Safe, Suspicious, or High-Risk.
+- Collaborated on the development of a Python desktop application using CustomTkinter.
+- Integrated VirusTotal API for real-time threat intelligence and reputation analysis.
+- Demonstrated practical application of threat detection, incident analysis, and cybersecurity risk assessment concepts.
 
 ## Lab Walkthroughs
