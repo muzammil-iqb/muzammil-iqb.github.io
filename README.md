@@ -20,7 +20,7 @@ Seeking a SOC Analyst or Security Analyst opportunity where I can apply my IT op
 </div>
 
 ## Resume
-<a href="https://muzammil-iqb.github.io/resume/Muzammil_Iqbal_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logobatreader&logoColor=white" /></a>
+<a href="https://muzammil-iqb.github.io/resume/Muzammil_Iqbal_Resume.pdf"><img src="https://img.shields.io/badge/View%20PDF-blue?style=for-the-badge&logobatreader&logoColor=white" /></a>
 
 ## Projects
 ### Phishing Hazard Assessment Tool | Capstone Project
