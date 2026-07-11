@@ -39,7 +39,7 @@ An AI-powered phishing detection application that analyzes URLs, emails, and att
 
 | Name | Overview |
 |------|----------|
-| <a href="https://muzammil-iqb.github.io/labs/THM/Introduction_to_Endpoint_Detection_and_Response.md">Introduction to Endpoint Detection and Response</a> | Gained hands-on knowledge of endpoint monitoring and advanced threat detection using EDR |
+| <a href="https://muzammil-iqb.github.io/labs/THM/Introduction_to_Endpoint_Detection_and_Response.pdf">Introduction to Endpoint Detection and Response</a> | Gained hands-on knowledge of endpoint monitoring and advanced threat detection using EDR |
 
 ## Badges
 ### TryHackMe
