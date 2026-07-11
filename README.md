@@ -35,7 +35,6 @@ An AI-powered phishing detection application that analyzes URLs, emails, and att
 - Demonstrated practical application of threat detection, incident analysis, and cybersecurity risk assessment concepts.
 
 ## Labs
-
 ### TryHackMe
 
 | Name | Overview |
