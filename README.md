@@ -34,7 +34,11 @@ An AI-powered phishing detection application that analyzes URLs, emails, and att
 - Integrated VirusTotal API for real-time threat intelligence and reputation analysis.
 - Demonstrated practical application of threat detection, incident analysis, and cybersecurity risk assessment concepts.
 
-## Lab Walkthroughs
+## Labs
+### TryHackMe
+| Name                                          | Overview                   |
+|-----------------------------------------------|----------------------------|
+| <a href="https://muzammil-iqb.github.io/labs/THM/Introduction_to_Endpoint_Detection_and_Response.md">Introduction to Endpoint Detection and Response</a> | Gained hands-on knowledge of endpoint monitoring and advanced threat detection using EDR|
 
 ## Badges
 ### TryHackMe
