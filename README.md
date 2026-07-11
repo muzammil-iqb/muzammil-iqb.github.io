@@ -38,5 +38,7 @@ An AI-powered phishing detection application that analyzes URLs, emails, and att
 
 ## Badges
 ### TryHackMe
-- <a href="https://tryhackme.com/MuzammilIqbal/badges/first-step-into-soc?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69671665fa6c70a8c62a130c">First Step into SOC</a> : Hands-on experience in SOC response and understanding how analysts detect and respond to cyber threats.
-- <a href="https://tryhackme.com/MuzammilIqbal/badges/soc-apprentice?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69671665fa6c70a8c62a130c">SOC Apprentice</a> : Hands-on exposure to how SOC functions, including alert triage, alert reporting, workbooks & lookups, and SOC metrics & objectives.
+| Name                                          | Description                |  
+|-----------------------------------------------|----------------------------|
+| <a href="https://tryhackme.com/MuzammilIqbal/badges/first-step-into-soc?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69671665fa6c70a8c62a130c">First Step into SOC</a> | Hands-on experience in SOC response and understanding how analysts detect and respond to cyber threats|
+| <a href="https://tryhackme.com/MuzammilIqbal/badges/soc-apprentice?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69671665fa6c70a8c62a130c">SOC Apprentice</a> | Hands-on exposure to how SOC functions, including alert triage, alert reporting, workbooks & lookups, and SOC metrics & objectives|
