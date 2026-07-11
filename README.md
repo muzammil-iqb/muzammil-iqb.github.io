@@ -36,12 +36,14 @@ An AI-powered phishing detection application that analyzes URLs, emails, and att
 
 ## Labs
 ### TryHackMe
+
 | Name                                          | Overview                   |
 |-----------------------------------------------|----------------------------|
 | <a href="https://muzammil-iqb.github.io/labs/THM/Introduction_to_Endpoint_Detection_and_Response.md">Introduction to Endpoint Detection and Response</a> | Gained hands-on knowledge of endpoint monitoring and advanced threat detection using EDR|
 
 ## Badges
 ### TryHackMe
+
 | Name                                          | Description                |  
 |-----------------------------------------------|----------------------------|
 | <a href="https://tryhackme.com/MuzammilIqbal/badges/first-step-into-soc?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69671665fa6c70a8c62a130c">First Step into SOC</a> | Hands-on experience in SOC response and understanding how analysts detect and respond to cyber threats|
