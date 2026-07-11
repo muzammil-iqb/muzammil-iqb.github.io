@@ -5,13 +5,36 @@ IT professional with 10+ years of experience in technical support, batch automat
 ## Objective
 Seeking a SOC Analyst or Security Analyst opportunity where I can apply my IT operations background, cybersecurity training, and analytical skills to help protect systems, investigate threats, and support a strong security posture.
 
-## Skills
+## Skills & Technologies
+### Security
+Threat Detection • Incident Response • Malware Analysis • Threat Intelligence • Security Monitoring
 
-## Tools
+### Networking
+TCP/IP • DNS • Firewalls • FTP/SFTP
+
+### Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-4A90E2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK%20Imager-1E88E5?style=for-the-badge&logoColor=white" />
+</div>
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ## Certifications
