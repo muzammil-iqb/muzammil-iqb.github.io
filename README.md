@@ -39,11 +39,14 @@ TCP/IP • DNS • Firewalls • FTP/SFTP
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/04aa2c9a-11ba-4302-b464-283167649af3/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/86ed756c-34d9-41bf-a058-d06a0c072c87/public_url"><img src="https://img.shields.io/badge/-PSM%20I-009FDA?&style=for-the-badge&logo=scrumalliance&logoColor=white" /></a>
 </div>
 
 ## Resume
+<div>
 <a href="https://muzammil-iqb.github.io/resume/Muzammil_Iqbal_Resume.pdf"><img src="https://img.shields.io/badge/View%20PDF-blue?style=for-the-badge&logobatreader&logoColor=white" /></a>
+<div>
 
 ## Projects
 ### Phishing Hazard Assessment Tool | Capstone Project
