@@ -44,9 +44,7 @@ TCP/IP • DNS • Firewalls • FTP/SFTP
 </div>
 
 ## Resume
-<div>
 <a href="https://muzammil-iqb.github.io/resume/Muzammil_Iqbal_Resume.pdf"><img src="https://img.shields.io/badge/View%20PDF-blue?style=for-the-badge&logobatreader&logoColor=white" /></a>
-<div>
 
 ## Projects
 ### Phishing Hazard Assessment Tool | Capstone Project
